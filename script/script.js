@@ -1,3 +1,3 @@
 function aperte(){
-    alert("Alo, queridinho da jossyara!");
+    alert("botão do jesus !");
 }
