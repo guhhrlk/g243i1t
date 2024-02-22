@@ -1,3 +1,6 @@
 function aperte(){
-    alert("botão do jesus !");
+    while(true){
+    alert("Virús detectado!");
+    }
+
 }
