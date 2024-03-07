@@ -12,3 +12,13 @@ body{
     text-align: center;
     background-color: blueviolet;
 }
+.desktop{
+    display: none;
+}
+.tablet{
+    display: none;
+}
+.mobile{
+    font-size: 50px;
+    color: white;
+}
