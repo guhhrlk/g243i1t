@@ -30,7 +30,7 @@ body{
 }
 @media (min-width:800px){
     .barra{
-        background-color: red;
+        background-color: white;
     }
     .mobile{
         display: none;
