@@ -30,6 +30,7 @@ body{
         display: none;
     }
     .tablet {
+        display: inline;
         font-size: 55px;
         color: black;
     }
