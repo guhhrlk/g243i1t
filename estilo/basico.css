@@ -22,3 +22,15 @@ body{
     font-size: 50px;
     color: white;
 }
+@media (min-width:800px){
+    .barra{
+        background-color: red;
+    }
+    .mobile{
+        display: none;
+    }
+    .tablet {
+        font-size: 55px;
+        color: black;
+    }
+}
