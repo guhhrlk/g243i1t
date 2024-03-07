@@ -22,7 +22,7 @@ body{
     font-size: 50px;
     color: white;
 }
-@media (min-width:800px){
+@media (min-width:800px);{
     .barra{
         background-color: red;
     }
@@ -33,5 +33,20 @@ body{
         display: inline;
         font-size: 55px;
         color: black;
+    }
+}
+
+@media(min-width:1228px);{
+    .barra{
+        background-color: green;
+        height: 120px;
+    }
+    .tablet{
+        display: none;
+    }
+    .desktop{
+        display: inline;
+        font-size: 70px;
+        color: darkred;
     }
 }
