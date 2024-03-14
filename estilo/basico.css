@@ -3,8 +3,10 @@
     background-color: green;
     color: white;
     text-align: center;
-    width: 80%;
-    font-size: 40px;
+    width: 100%;
+    font-size: 26px;
+    padding-top: 4px;
+    padding-bottom: 4px;
 }
 .conteudo {
     text-align: center;
@@ -26,7 +28,7 @@ body{
 }
 .mobile{
     font-size: 50px;
-    color: white;
+    color: white;<div class="aba" id="aba1">Estou na Aba 1</div>
 }
 @media (min-width:800px){
     .barra{
