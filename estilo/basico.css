@@ -11,6 +11,21 @@
 .abas{
     width: 100%;
 }
+#aba1{
+    background-color: red;
+}
+#aba2{
+    background-color: orangered;
+}
+#aba3{
+    background-color: yellow;
+}
+#aba4{
+    background-color: green;
+}
+#aba5{
+    background-color: blue;
+}
 .conteudo {
     text-align: center;
 }
