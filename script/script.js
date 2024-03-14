@@ -1,6 +1,5 @@
-function aperte(){
-    while(true){
-    alert("Virús detectado!");
-    }
+function abrir_aba(num){
+
+alert(num);
 
 }
